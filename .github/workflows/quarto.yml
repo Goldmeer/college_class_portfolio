@@ -11,6 +11,8 @@ permissions:
 
 jobs:
   build:
+    environment:
+      name: github-pages
     runs-on: ubuntu-latest
 
     steps:
@@ -29,4 +31,5 @@ jobs:
           path: _site
 
       - name: Deploy to GitHub Pages
+        id: deploy
         uses: actions/deploy-pages@v4
