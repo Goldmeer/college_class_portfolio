@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Joseph Goldmeer — College Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Classes"
+        menu:
+          - text: "Linear Algebra"
+            href: classes/linear-algebra/index.qmd
+          - text: "Multivariable Calculus"
+            href: classes/multivariable-calculus/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles/custom.css
