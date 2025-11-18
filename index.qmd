@@ -1,9 +1,25 @@
 ---
-title: "Joseph Goldmeer — College Portfolio"
+title: "College Class Portfolio"
 format: html
 ---
 
 # Welcome to My College Portfolio
 
-Use the navigation bar to browse through individual classes and projects.
+This website contains my coursework, assignments, projects, and notes across multiple college classes.
 
+Use the navigation bar to browse by course.
+
+## Currently Featured Courses
+
+### 🔹 Linear Algebra
+Explore homework solutions, lecture notes, computational demos, and visualizations.  
+[View Linear Algebra →](classes/linear_algebra/index.qmd)
+
+### 🔹 Multivariable Calculus
+Assignments, 3D visualizations, gradient/flux demos, and more.  
+[View Multivariable Calculus →](classes/multivariable_calculus/index.qmd)
+
+---
+
+If you want help creating the folders for each class, tell me:  
+**“Generate the class folder structure.”**

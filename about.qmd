@@ -5,4 +5,13 @@ format: html
 
 # About Me
 
-This site hosts my academic work and class projects.
+My name is **Joseph Goldmeer**, and this website serves as my academic portfolio for college-level mathematics and other coursework. I built this site using **Quarto**, **R/Python**, and **GitHub Pages**.
+
+Here you will find:
+
+- Class assignments  
+- Projects & visualizations  
+- Notes and study guides  
+- Computational demos  
+
+This portfolio will grow as I complete more courses.
