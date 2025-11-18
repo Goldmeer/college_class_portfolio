@@ -4,8 +4,9 @@ project:
 
 website:
   title: "Joseph Goldmeer — Class Portfolio"
-  #site-url: "https://goldmeer.github.io/college_class_portfolio"
-  repo-url: "https://github.com/j.goldmeer/college_class_portfolio"
+  site-url: "https://goldmeer.github.io/college_class_portfolio"
+  base-url: "/college_class_portfolio/"
+  repo-url: "https://github.com/goldmeer/college_class_portfolio"
   description: "A portfolio of my college coursework, assignments, and projects."
   navbar:
     left:
