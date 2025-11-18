@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "College Class Portfolio",
+    "section": "",
+    "text": "Welcome to my college course portfolio!\nThis site contains detailed notes, assignments, and projects for my classes."
+  },
+  {
+    "objectID": "index.html#courses-included",
+    "href": "index.html#courses-included",
+    "title": "College Class Portfolio",
+    "section": "Courses Included",
+    "text": "Courses Included\n\nLinear Algebra\nMultivariable Calculus"
+  },
+  {
+    "objectID": "classes/multivariable-calculus/index.html",
+    "href": "classes/multivariable-calculus/index.html",
+    "title": "Multivariable Calculus",
+    "section": "",
+    "text": "Welcome to the Multivariable Calculus section of my portfolio.\n\n\n\nNavigate to the Assignments folder\n\n\n\n\n\nNavigate to the Projects folder"
+  },
+  {
+    "objectID": "classes/multivariable-calculus/index.html#assignments",
+    "href": "classes/multivariable-calculus/index.html#assignments",
+    "title": "Multivariable Calculus",
+    "section": "",
+    "text": "Navigate to the Assignments folder"
+  },
+  {
+    "objectID": "classes/multivariable-calculus/index.html#projects",
+    "href": "classes/multivariable-calculus/index.html#projects",
+    "title": "Multivariable Calculus",
+    "section": "",
+    "text": "Navigate to the Projects folder"
+  },
+  {
+    "objectID": "classes/linear-algebra/index.html",
+    "href": "classes/linear-algebra/index.html",
+    "title": "Linear Algebra",
+    "section": "",
+    "text": "Welcome to the Linear Algebra section of my portfolio.\n\n\n\nNavigate to the Assignments folder\n\n\n\n\n\nNavigate to the Projects folder"
+  },
+  {
+    "objectID": "classes/linear-algebra/index.html#assignments",
+    "href": "classes/linear-algebra/index.html#assignments",
+    "title": "Linear Algebra",
+    "section": "",
+    "text": "Navigate to the Assignments folder"
+  },
+  {
+    "objectID": "classes/linear-algebra/index.html#projects",
+    "href": "classes/linear-algebra/index.html#projects",
+    "title": "Linear Algebra",
+    "section": "",
+    "text": "Navigate to the Projects folder"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About This Portfolio",
+    "section": "",
+    "text": "This site organizes my work from multiple college classes into one place.\nIt is built with Quarto, deployed using GitHub Pages, and structured to be expandable for future courses."
+  },
+  {
+    "objectID": "classes/linear-algebra/linear-algebra.html",
+    "href": "classes/linear-algebra/linear-algebra.html",
+    "title": "Linear Algebra",
+    "section": "",
+    "text": "Linear Algebra\nWelcome to the Linear Algebra section of this portfolio!\n(Add notes, homework, proofs, etc.)"
+  },
+  {
+    "objectID": "classes/multivariable-calculus/multivariable-calculus.html",
+    "href": "classes/multivariable-calculus/multivariable-calculus.html",
+    "title": "Multivariable Calculus",
+    "section": "",
+    "text": "Multivariable Calculus\nThis section contains my notes and assignments for Multivariable Calculus."
+  }
+]
