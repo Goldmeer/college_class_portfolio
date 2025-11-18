@@ -1,17 +1,7 @@
 ---
-title: "About Me"
-format: html
+title: "About This Portfolio"
 ---
 
-# About Me
+This site organizes my work from multiple college classes into one place.
 
-My name is **Joseph Goldmeer**, and this website serves as my academic portfolio for college-level mathematics and other coursework. I built this site using **Quarto**, **R/Python**, and **GitHub Pages**.
-
-Here you will find:
-
-- Class assignments  
-- Projects & visualizations  
-- Notes and study guides  
-- Computational demos  
-
-This portfolio will grow as I complete more courses.
+It is built with **Quarto**, deployed using **GitHub Pages**, and structured to be expandable for future courses.

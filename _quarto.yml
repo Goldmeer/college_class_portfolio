@@ -1,26 +1,25 @@
 project:
   type: website
-  output-dir: _site
 
 website:
-  title: "Joseph Goldmeer — Class Portfolio"
-  site-url: "https://goldmeer.github.io/college_class_portfolio"
-  repo-url: "https://github.com/goldmeer/college_class_portfolio"
-  description: "A portfolio of my college coursework, assignments, and projects."
+  title: "College Class Portfolio"
+  site-url: "https://j-goldmeer.github.io/college_class_portfolio"
+  repo-url: "https://github.com/J.Goldmeer/college_class_portfolio"
+
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - href: about.qmd
-        text: About
-      - text: Classes
+        text: "About"
+      - text: "Classes"
         menu:
-          - href: classes/linear_algebra/index.qmd
-            text: Linear Algebra
-          - href: classes/multivariable_calculus/index.qmd
-            text: Multivariable Calculus
+          - href: classes/linear-algebra.qmd
+            text: "Linear Algebra"
+          - href: classes/multivariable-calculus.qmd
+            text: "Multivariable Calculus"
 
 format:
   html:
     theme: cosmo
-    css: styles/custom.css
+    toc: true

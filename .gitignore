@@ -1,0 +1,10 @@
+# Quarto build folder
+_site/
+
+# Quarto internal cache (appears on some systems)
+.quarto/
+
+# OS junk files
+.Rhistory
+.RData
+.DS_Store
