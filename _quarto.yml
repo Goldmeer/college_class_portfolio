@@ -3,8 +3,8 @@ project:
 
 website:
   title: "College Class Portfolio"
-  site-url: "https://j-goldmeer.github.io/college_class_portfolio"
-  repo-url: "https://github.com/J.Goldmeer/college_class_portfolio"
+  site-url: "https://goldmeer.github.io/college_class_portfolio"
+  repo-url: "https://github.com/Goldmeer/college_class_portfolio"
 
   navbar:
     left:
